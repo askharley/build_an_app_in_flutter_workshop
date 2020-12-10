@@ -1,6 +1,6 @@
 # Building An App In Flutter
 
-> A workshop to serve as an introduction to Flutter, Dart and how to go about building your first application.
+> A workshop to explore how we can create an application in Flutter that is ready to scale
 
 ## Table of Contents
 * [🎯 Goals](#goals)
@@ -12,9 +12,10 @@
 - Learn how to structure our Flutter application
 - Learn how to create a theme
 - Learn how to build views
+- Learn how to navigate between views
+- Learn how to pass arguments between views
 - Learn how to make HTTP requests
 - Learn how to handle dependency injection
-- Learn how to pass arguments between views
 - Learn how to handle state
 
 
