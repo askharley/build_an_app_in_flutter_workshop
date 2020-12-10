@@ -1,6 +1,6 @@
 # Building An App In Flutter
 
-> A workshop to explore how we can create an application in Flutter that is ready to scale
+> A workshop to explore how we can create an application in Flutter that is ready to scale.
 
 ## Table of Contents
 * [🎯 Goals](#goals)
